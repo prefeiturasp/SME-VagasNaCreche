@@ -1,0 +1,67 @@
+version: "3"
+
+services:
+  db:
+    image: postgres:12
+    restart: unless-stopped
+    volumes:
+      - /srv/db:/var/lib/postgresql/data
+    env_file:
+      - .env
+    networks:
+      - database
+    ports:
+      - "5432:5432"
+
+  djangoapp:
+    build: SME-VagasNaCreche-API/
+    restart: unless-stopped
+    environment:
+      - DJANGO_SETTINGS_MODULE
+    volumes:
+      - ./SME-VagasNaCreche-API/:/opt/services/djangoapp/src
+      - static:/opt/services/djangoapp/static
+      - media:/opt/services/djangoapp/media
+    env_file:
+      - .env
+    networks:
+      - database
+      - nginx_network
+    depends_on:
+      - db
+
+  nginx:
+    image: nginx:1.15-alpine
+    restart: unless-stopped
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - static:/opt/services/djangoapp/static
+      - media:/opt/services/djangoapp/media
+      - front:/usr/share/nginx/html
+    networks:
+      - nginx_network
+    depends_on:
+      - djangoapp
+      - db
+      - front
+    ports:
+      - "80:80"
+
+  front:
+    build: SME-VagasNaCreche-FrontEnd/
+    networks:
+      - nginx_network
+    volumes:
+      - front:/opt/services/front/src/build
+
+networks:
+  database:
+    driver: bridge
+  nginx_network:
+    driver: bridge
+
+volumes:
+  db_data:
+  static:
+  media:
+  front:
