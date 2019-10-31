@@ -1,0 +1,8 @@
+[submodule "SME-VagasNaCreche-FrontEnd"]
+	path = SME-VagasNaCreche-FrontEnd
+	url = https://github.com/prefeiturasp/SME-VagasNaCreche-FrontEnd.git
+	branch = dev
+[submodule "SME-VagasNaCreche-API"]
+	path = SME-VagasNaCreche-API
+	url = https://github.com/prefeiturasp/SME-VagasNaCreche-API.git
+	branch = dev
