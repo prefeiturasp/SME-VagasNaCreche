@@ -1,5 +1,5 @@
 upstream vaga_na_creche {
-    server djangoapp:8000;
+    server vaga-creche-djangoapp:8000;
 }
 
 server {

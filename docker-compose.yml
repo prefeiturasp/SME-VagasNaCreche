@@ -1,19 +1,20 @@
-version: "3"
+version: "3.6"
 
 services:
-  db:
+  vaga-creche-db:
     image: postgres:12
+    container_name: vaga-creche-db
     restart: unless-stopped
     volumes:
       - /srv/db_vaga:/var/lib/postgresql/data
     env_file:
       - .env
     networks:
-      - database
+      - vaga-creche-db-nw
     ports:
       - "5432:5432"
 
-  djangoapp:
+  vaga-creche-djangoapp:
     build: SME-VagasNaCreche-API/
     restart: unless-stopped
     environment:
@@ -25,13 +26,15 @@ services:
     env_file:
       - .env
     networks:
-      - database
-      - nginx_network
+      - vaga-creche-db-nw
+      - vaga-creche-web_nw
     depends_on:
-      - db
+      - vaga-creche-db
+      - vaga-creche-redis
 
-  nginx:
+  vaga-creche-nginx:
     image: nginx:1.15-alpine
+    container_name: vaga-creche-nginx
     restart: unless-stopped
     volumes:
       - ./nginx/conf.d:/etc/nginx/conf.d
@@ -39,25 +42,34 @@ services:
       - media:/opt/services/djangoapp/media
       - front:/usr/share/nginx/html
     networks:
-      - nginx_network
+      - vaga-creche-web_nw
     depends_on:
-      - djangoapp
-      - db
-      - front
+      - vaga-creche-djangoapp
+      - vaga-creche-db
+      - vaga-creche-front
     ports:
       - "80:80"
 
-  front:
+  vaga-creche-front:
     build: SME-VagasNaCreche-FrontEnd/
+    container_name: vaga-creche-front
     networks:
-      - nginx_network
+      - vaga-creche-web_nw
     volumes:
       - front:/opt/services/front/src/build
 
+  vaga-creche-redis:
+    image: redis:3.2-alpine
+    container_name: vaga-creche-redis
+    volumes:
+      - redis_data:/data
+    networks:
+      - vaga-creche-db-nw
+
 networks:
-  database:
+  vaga-creche-db-nw:
     driver: bridge
-  nginx_network:
+  vaga-creche-web_nw:
     driver: bridge
 
 volumes:
@@ -65,3 +77,4 @@ volumes:
   static:
   media:
   front:
+  redis_data:
