@@ -1,6 +1,6 @@
 .PHONY: docs clean
 
-COMMAND = docker-compose run --rm djangoapp /bin/bash -c
+COMMAND = docker-compose run --rm vaga-creche-djangoapp /bin/bash -c
 
 all: build test
 
