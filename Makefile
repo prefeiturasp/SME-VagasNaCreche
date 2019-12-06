@@ -16,6 +16,9 @@ migrate:
 makemigrations:
 	$(COMMAND) "python webapp/manage.py makemigrations"
 
+createsuperuser:
+	$(COMMAND) "python webapp/manage.py createsuperuser"
+
 static:
 	$(COMMAND) "python webapp/manage.py collectstatic"
 
