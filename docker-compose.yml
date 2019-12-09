@@ -61,6 +61,7 @@ services:
   vaga-creche-redis:
     image: redis:3.2-alpine
     container_name: vaga-creche-redis
+    restart: unless-stopped
     volumes:
       - redis_data:/data
     networks:
