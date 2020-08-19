@@ -126,19 +126,20 @@ Sobre o Pátio Digital: [http://patiodigital.prefeitura.sp.gov.br/o-que-e-o-pati
 Sobre o Fila da Creche: [http://patiodigital.prefeitura.sp.gov.br/?s=fila+da+creche  
 ](http://patiodigital.prefeitura.sp.gov.br/?s=fila+da+creche)
 
-Nos 20 meses de uso experimental do Fila da Creche, mais de 2,2 mil usuários preencheram o formulário de avaliação da ferramenta: [https://smeprefeituraspgov-my.sharepoint.com/:x:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EccKEaZuHUxMjEuiv-3itOUBXpqOOdP3EJj36zVXbv1YGA?e=NVtuGg](https://smeprefeituraspgov-my.sharepoint.com/:x:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EccKEaZuHUxMjEuiv-3itOUBXpqOOdP3EJj36zVXbv1YGA?e=NVtuGg)
+Nos 20 meses de uso experimental do Fila da Creche, mais de 2,2 mil usuários preencheram o formulário de avaliação da ferramenta: `https://smeprefeituraspgov-my.sharepoint.com/:x:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EccKEaZuHUxMjEuiv-3itOUBXpqOOdP3EJj36zVXbv1YGA?e=NVtuGg`
 
 Os elogios, críticas e sugestões apresentadas por eles, assim como as propostas colhidas na oficina presencial realizada no dia 29 de outubro de 2019 com mães e pais em idade de Berçário e Mini Grupo, contribuíram para o aprimoramento da ferramenta.
 
 Materiais utilizados na referida oficina:
 
-[https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EVUpK3QkP6hLskE2uC2TVDUBjuNXD3ibP6OOPaBKq5u5XQ?e=7sF1bv](https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EVUpK3QkP6hLskE2uC2TVDUBjuNXD3ibP6OOPaBKq5u5XQ?e=7sF1bv)
 
-[https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/ES7lAQOPVzxCrallVlyI0WEBm8j-7N3pZXdKvy18ZK6KAA?e=qhPoYA](https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/ES7lAQOPVzxCrallVlyI0WEBm8j-7N3pZXdKvy18ZK6KAA?e=qhPoYA)
+`https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EVUpK3QkP6hLskE2uC2TVDUBjuNXD3ibP6OOPaBKq5u5XQ?e=7sF1bv`
 
-[https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EdaToyQsVe5Jo5sM69TZYZIB5lk2nOOCZr1BK-0NqYdzHw?e=ClI4gg](https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EdaToyQsVe5Jo5sM69TZYZIB5lk2nOOCZr1BK-0NqYdzHw?e=ClI4gg)
+`https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/ES7lAQOPVzxCrallVlyI0WEBm8j-7N3pZXdKvy18ZK6KAA?e=qhPoYA`
 
-[https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EfpBcdjTt9BBtwzZibs-nHUBDX3yVv6SAR6KwscyrEU_5A?e=Vy4anc](https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EfpBcdjTt9BBtwzZibs-nHUBDX3yVv6SAR6KwscyrEU_5A?e=Vy4anc)
+`https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EdaToyQsVe5Jo5sM69TZYZIB5lk2nOOCZr1BK-0NqYdzHw?e=ClI4gg`
+
+`https://smeprefeituraspgov-my.sharepoint.com/:b:/g/personal/thais_ng_sme_prefeitura_sp_gov_br/EfpBcdjTt9BBtwzZibs-nHUBDX3yVv6SAR6KwscyrEU_5A?e=Vy4anc`
 
 **Protótipos:**
 
