@@ -16,8 +16,8 @@ Existem diversas formas de contribuir com o projeto:
 
 ### Reportando bugs
 
-Se encontrou um bug no SME-PTRF você pode reportá-lo usando a ferramenta de
-[issues do GitHub](https://github.com/prefeiturasp/SME-PTRF/issues). Porém antes
+Se encontrou um bug no Vaga na Creche você pode reportá-lo usando a ferramenta de
+[issues do GitHub](https://github.com/prefeiturasp/SME-VagasNaCreche/issues). Porém antes
 de enviar seu bug é importante fazer as seguintes verificações:
 
 1. Atualize seu repositório local no branch `master` mais recente. Talvez seu
@@ -26,7 +26,7 @@ de enviar seu bug é importante fazer as seguintes verificações:
    issues.
 
 Se o bug realmente não foi resolvido ou acolhido então está na hora de
-[criar uma nova issue](https://github.com/prefeiturasp/SME-PTRF/issues/new). 
+[criar uma nova issue](https://github.com/prefeiturasp/SME-VagasNaCreche/issues/new). 
 Siga o template fornecido.
 
 #### Nota sobre falhas de segurança
@@ -52,7 +52,7 @@ como ele está estruturado. Se você tem qualquer ideia de como podemos melhorar
 alguma abordagem na solução de problemas, refatoração de código, melhoria em
 algum recurso ou qualquer outra coisa relacionada, siga estes passos:
 
-1. Certifique-se de que sua ideia já não esteja sendo abordada dentro do conjuntos de issues [issues do GitHub](https://github.com/prefeiturasp/SME-PTRF/issues);
+1. Certifique-se de que sua ideia já não esteja sendo abordada dentro do conjuntos de issues [issues do GitHub](https://github.com/prefeiturasp/SME-VagasNaCreche/issues);
 2. Defenda a sua ideia e explique de forma convincente porque ela deve ser
    acolhida. Eis algumas questões a considerar:
    1. Você realmente esta propondo uma ideia só ou um conjunto de ideias?
@@ -71,7 +71,7 @@ algum recurso ou qualquer outra coisa relacionada, siga estes passos:
       
       Tendo passado pelo crivo de todos estes questionamentos basta
 [criar uma nova issue](Tendo passado pelo crivo de todos estes questionamentos basta
-[criar uma nova issue](https://github.com/prefeiturasp/SME-PTRF/issues/new)
+[criar uma nova issue](https://github.com/prefeiturasp/SME-VagasNaCreche/issues/new)
 descrevendo as melhorias e usando o label **melhorias**./new)
 descrevendo as melhorias e usando o label **melhorias**.
 
@@ -111,7 +111,7 @@ Escolar com apenas alguns cliques, otimizando de forma radical este processo que
 antes poderia demorar semanas envolvendo o trabalho de muitas pessoas.
 
 Para criar seu pedido de recurso basta
-[criar uma nova issue](https://github.com/prefeiturasp/SME-PTRF/issues/new) usando
+[criar uma nova issue](https://github.com/prefeiturasp/SME-VagasNaCreche/issues/new) usando
 o label **recurso**.
 /new) usando
 o label **recurso**.
@@ -183,7 +183,7 @@ entender melhor sobre esta decisão veja
 Se você não trabalha com código mas quer ajudar existem muitas outras
 formas de contribuir:
 
-- Fale sobre O PTRF nas suas redes sociais, blogs, etc. Espalhe a palavra;
+- Fale sobre o Vaga na Creche nas suas redes sociais, blogs, etc. Espalhe a palavra;
 - Crie material promocional como apresentações, screencasts, mídia para
   compartilhamento em redes sociais, etc;
 - Viu alguma discussão que te interessa e onde você pode acrescentar mesmo sem
