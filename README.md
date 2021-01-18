@@ -101,7 +101,6 @@ O(a) usuário(a) acessa a homepage do Vaga na Creche e assiste ao vídeo que exp
 - Cruzamentos de dados com imóveis  cadastrados  como  potenciais  locais para instalação de Centros de Educação  Infantil e com as solicitações online (pré-cadastro) por vagas  em Centros de Educação  Infantil
 - Relatórios gerenciais e mapas de calor no Ambiente logado
 
-
 # Como surgiu
 
 A plataforma Vaga na Creche é resultado da evolução do sistema Fila da Creche, que foi lançado em abril de 2018, em versão beta (de teste), como um dos produtos da iniciativa de governo aberto da Secretaria Municipal de Educação (Pátio Digital).
@@ -114,9 +113,9 @@ Nos 20 meses de uso experimental do Fila da Creche, mais de 2,2 mil usuários pr
 
 **Materiais utilizados na referida oficina:**
 
-- [Canvas](https://github.com/prefeiturasp/SME-VagasNaCreche/commit/c9912bfd8fcfdcadaed7e6d5df11a59bca4e81d6)
-- [Matriz CSD](https://github.com/prefeiturasp/SME-VagasNaCreche/commit/c9912bfd8fcfdcadaed7e6d5df11a59bca4e81d6)
-- [Ferramenta para ideação de filtros de busca](https://github.com/prefeiturasp/SME-VagasNaCreche/commit/c9912bfd8fcfdcadaed7e6d5df11a59bca4e81d6)
+- [Canvas](https://github.com/prefeiturasp/SME-VagasNaCreche/blob/master/canvas-preenchido.pdf)
+- [Matriz CSD](https://github.com/prefeiturasp/SME-VagasNaCreche/blob/master/matriz-csd-preenchida.pdf)
+- [Ferramenta para ideação de filtros de busca](https://github.com/prefeiturasp/SME-VagasNaCreche/blob/master/filtros-vagas.pdf)
 
 **Protótipos:**
 
