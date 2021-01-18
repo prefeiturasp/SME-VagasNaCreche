@@ -21,7 +21,7 @@ O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/
 6. [Repositórios](#repositórios)  
 7. [Instalação e Configuração](#instalação-e-configuração)
 
-# [](#sobre-o-produto)Sobre o Produto
+# Sobre o Produto
 
 ## Visão do Produto
 
@@ -102,7 +102,7 @@ O(a) usuário(a) acessa a homepage do Vaga na Creche e assiste ao vídeo que exp
 - Relatórios gerenciais e mapas de calor no Ambiente logado
 
 
-# [](#como-surgiu)Como surgiu
+# Como surgiu
 
 A plataforma Vaga na Creche é resultado da evolução do sistema Fila da Creche, que foi lançado em abril de 2018, em versão beta (de teste), como um dos produtos da iniciativa de governo aberto da Secretaria Municipal de Educação (Pátio Digital).
 
@@ -111,7 +111,7 @@ A plataforma Vaga na Creche é resultado da evolução do sistema Fila da Creche
 **Sobre o Fila da Creche:** [http://patiodigital.prefeitura.sp.gov.br/?s=fila+da+creche  
 ](http://patiodigital.prefeitura.sp.gov.br/?s=fila+da+creche)
 
-![Nos 20 meses de uso experimental do Fila da Creche, mais de 2,2 mil usuários preencheram o formulário de avaliação da ferramenta](https://github.com/prefeiturasp/SME-VagasNaCreche/blob/master/ficha-avaliacao.pdf)
+Nos 20 meses de uso experimental do Fila da Creche, mais de 2,2 mil usuários preencheram o formulário de avaliação da ferramenta: ![ficha-avaliacao.pdf](https://github.com/prefeiturasp/SME-VagasNaCreche/blob/master/ficha-avaliacao.pdf)
 
 Os elogios, críticas e sugestões apresentadas por eles, assim como as propostas colhidas na oficina presencial realizada no dia 29 de outubro de 2019 com mães e pais em idade de Berçário e Mini Grupo, contribuíram para o aprimoramento da ferramenta.
 
@@ -133,7 +133,7 @@ Home page: [https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?nod
 
 Vaga remanescente: [https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=82%3A241](https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=82%3A241)
 
-# [](#links-úteis)Links Úteis
+# Links Úteis
 
 **Homologação:**
 
@@ -143,13 +143,13 @@ Vaga remanescente: [https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Cr
 
 [https://educacao.sme.prefeitura.sp.gov.br/vaga-na-creche/](https://educacao.sme.prefeitura.sp.gov.br/vaga-na-creche/)
 
-# [](#comunicação)Comunicação
+# Comunicação
 
 | Canal de comunicação | Objetivos |
 |----------------------|-----------|
 | [Issues do Github](https://github.com/prefeiturasp/SME-VagasNaCreche/issues) | - Sugestão de novas funcionalidades<br> - Reportar bugs<br> - Discussões técnicas |
     
-# [](#como-contribuir)Como contribuir
+# Como contribuir
 
 Contribuições são **super bem vindas**! Se você tem vontade de construir o Vaga na Creche conosco, veja o nosso [guia de contribuição](./CONTRIBUTING.md) onde explicamos detalhadamente como trabalhamos e de que formas você pode nos ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir  nosso [código de conduta](./CODEOFCONDUCT.md).
 
