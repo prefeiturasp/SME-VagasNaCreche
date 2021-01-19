@@ -33,26 +33,33 @@ Ser instrumento de transparência ativa, em linguagem simples e com acessibilida
 
 ## Personas
 
-**Quem:** responsável pela criança de até 4 anos incompletos que ainda não solicitou vaga na creche municipal
-**Características e necessidades:** consultar a espera por atendimento nos Centros de Educação Infantil (CEIs), de acordo com o endereço fornecido e a faixa etária informada, para decidir se solicita ou não uma vaga e como (ou seja, quais endereços registrar no cadastro da criança)
+### Responsável pela criança de até 4 anos incompletos que ainda não solicitou vaga na creche municipal
 
-**Quem:** responsável pela criança de até 4 anos incompletos que aguarda vaga na creche municipal
-**Características e necessidades:** consultar a espera por atendimento nos Centros de Educação Infantil (CEIs), de acordo com o endereço fornecido e a faixa etária informada, para decidir se acrescenta um segundo endereço no cadastro da criança ou se alguma vaga ociosa atende sua necessidade mais urgente
+- **Características e necessidades:** consultar a espera por atendimento nos Centros de Educação Infantil (CEIs), de acordo com o endereço fornecido e a faixa etária informada, para decidir se solicita ou não uma vaga e como (ou seja, quais endereços registrar no cadastro da criança)
 
-**Quem:** responsável pela criança de até 4 anos incompletos que já está na creche municipal
-**Características e necessidades:** consultar a espera por atendimento nos Centros de Educação Infantil (CEIs), de acordo com o endereço fornecido e a faixa etária informada, caso tenha interesse em pedir transferência para outro Centro de Educação Infantil (CEI)
+### Responsável pela criança de até 4 anos incompletos que aguarda vaga na creche municipal
 
-**Quem:** cidadã(o) em geral
-**Características e necessidades:** qualquer pessoa interessada em consultar a espera por atendimento nos Centros de Educação Infantil (CEIs), de acordo com o endereço fornecido e a faixa etária informada
+- **Características e necessidades:** consultar a espera por atendimento nos Centros de Educação Infantil (CEIs), de acordo com o endereço fornecido e a faixa etária informada, para decidir se acrescenta um segundo endereço no cadastro da criança ou se alguma vaga ociosa atende sua necessidade mais urgente
 
-**Quem:** servidores
-**Características e necessidades:** buscam informações e dados gerenciais a respeito da espera por atendimento nos Centros de Educação Infantil em um dado território e da existência de vagas ociosas, para  subsidiar  seus  trabalhos  de  análise  e  planejamento  da  política  educacional
+### Responsável pela criança de até 4 anos incompletos que já está na creche municipal
 
-**Quem:** jornalistas e demais comunicadores
-**Características e necessidades:** consomem informações e dados a respeito da espera por atendimento nos Centros de Educação Infantil e da existência de vagas ociosas, para levantar pautas e subsidiar suas matérias
+- **Características e necessidades:** consultar a espera por atendimento nos Centros de Educação Infantil (CEIs), de acordo com o endereço fornecido e a faixa etária informada, caso tenha interesse em pedir transferência para outro Centro de Educação Infantil (CEI)
 
-**Quem:** pesquisadores
-**Características e necessidades:** consomem informações e dados a respeito da espera por atendimento nos Centros de Educação Infantil e da existência de vagas ociosas,  como subsídio para os estudos e análise da política educacional da Prefeitura de São Paulo, que contribuem com o seu constante aprimoramento
+### Cidadã(o) em geral
+
+- **Características e necessidades:** qualquer pessoa interessada em consultar a espera por atendimento nos Centros de Educação Infantil (CEIs), de acordo com o endereço fornecido e a faixa etária informada
+
+### Servidores
+
+- **Características e necessidades:** buscam informações e dados gerenciais a respeito da espera por atendimento nos Centros de Educação Infantil em um dado território e da existência de vagas ociosas, para  subsidiar  seus  trabalhos  de  análise  e  planejamento  da  política  educacional
+
+### Jornalistas e demais comunicadores
+
+- **Características e necessidades:** consomem informações e dados a respeito da espera por atendimento nos Centros de Educação Infantil e da existência de vagas ociosas, para levantar pautas e subsidiar suas matérias
+
+### Pesquisadores
+
+- **Características e necessidades:** consomem informações e dados a respeito da espera por atendimento nos Centros de Educação Infantil e da existência de vagas ociosas,  como subsídio para os estudos e análise da política educacional da Prefeitura de São Paulo, que contribuem com o seu constante aprimoramento
 
 ## Funcionalidades
 
@@ -70,7 +77,7 @@ Ser instrumento de transparência ativa, em linguagem simples e com acessibilida
 
 - O(a) usuário(a) acessa a homepage do Vaga na Creche e seleciona no menu superior a opção “Consulte vagas remanescentes”. Ele(a) então seleciona o mês e ano de nascimento da criança e opta por uma das três categorias de busca (Distrito, Subprefeitura ou Diretoria Regional de Educação – DRE). Depois, escolhe a área específica na qual deseja realizar a consulta. Ele(a) terá acesso a uma página que informa (em lista e em mapa interativos) se há (e quantos e quais são) os Centros de Educação Infantil (CEIs) com vagas disponíveis para atendimento àquela faixa etária naquela região (e, em caso positivo, quantas vagas há em cada CEI em questão). A pessoa consegue nessa página consultar o nome completo, endereço exato e contato (telefone e e-mail) de cada CEI listado.
 
-O(a) usuário(a) acessa a homepage do Vaga na Creche e assiste ao vídeo que explica como solicitar uma vaga em um Centro de Educação Infantil (CEI) e como funciona a fila. Ele também pode ler os itens “A criança já está cadastrada à espera de uma vaga?” ou “Quer saber mais sobre cada Centro de Educação Infantil?” e optar por ser direcionado, respectivamente, para a consulta logada sobre a posição da criança na fila (EOL gerenciamento) ou para a plataforma Escola Aberta. Por fim, se selecionar no menu superior a opção “Sobre o vaga na creche”, a pessoa terá acesso a conteúdos de texto e vídeo que explicam em detalhes o histórico da aplicação, suas regras de funcionamento e como realizar a consulta.
+- O(a) usuário(a) acessa a homepage do Vaga na Creche e assiste ao vídeo que explica como solicitar uma vaga em um Centro de Educação Infantil (CEI) e como funciona a fila. Ele também pode ler os itens “A criança já está cadastrada à espera de uma vaga?” ou “Quer saber mais sobre cada Centro de Educação Infantil?” e optar por ser direcionado, respectivamente, para a consulta logada sobre a posição da criança na fila (EOL gerenciamento) ou para a plataforma Escola Aberta. Por fim, se selecionar no menu superior a opção “Sobre o vaga na creche”, a pessoa terá acesso a conteúdos de texto e vídeo que explicam em detalhes o histórico da aplicação, suas regras de funcionamento e como realizar a consulta.
 
 ## Roadmap
 
@@ -105,25 +112,25 @@ O(a) usuário(a) acessa a homepage do Vaga na Creche e assiste ao vídeo que exp
 
 A plataforma Vaga na Creche é resultado da evolução do sistema Fila da Creche, que foi lançado em abril de 2018, em versão beta (de teste), como um dos produtos da iniciativa de governo aberto da Secretaria Municipal de Educação (Pátio Digital).
 
-**Sobre o Pátio Digital:** [http://patiodigital.prefeitura.sp.gov.br/o-que-e-o-patio-digital/](http://patiodigital.prefeitura.sp.gov.br/o-que-e-o-patio-digital/)
+- **Sobre o Pátio Digital:** [http://patiodigital.prefeitura.sp.gov.br/o-que-e-o-patio-digital/](http://patiodigital.prefeitura.sp.gov.br/o-que-e-o-patio-digital/)
 
-**Sobre o Fila da Creche:** [http://patiodigital.prefeitura.sp.gov.br/?s=fila+da+creche](http://patiodigital.prefeitura.sp.gov.br/?s=fila+da+creche)
+- **Sobre o Fila da Creche:** [http://patiodigital.prefeitura.sp.gov.br/?s=fila+da+creche](http://patiodigital.prefeitura.sp.gov.br/?s=fila+da+creche)
 
 Nos 20 meses de uso experimental do Fila da Creche, mais de 2,2 mil usuários preencheram o formulário de avaliação da ferramenta [que pode ser visualizada aqui](https://github.com/prefeiturasp/SME-VagasNaCreche/blob/master/ficha-avaliacao.pdf). Os elogios, críticas e sugestões apresentadas por eles, assim como as propostas colhidas na oficina presencial realizada no dia 29 de outubro de 2019 com mães e pais em idade de Berçário e Mini Grupo, contribuíram para o aprimoramento da ferramenta.
 
-**Materiais utilizados na referida oficina:**
+- **Materiais utilizados na referida oficina:**
 
 - [Canvas](https://github.com/prefeiturasp/SME-VagasNaCreche/blob/master/canvas-preenchido.pdf)
 - [Matriz CSD](https://github.com/prefeiturasp/SME-VagasNaCreche/blob/master/matriz-csd-preenchida.pdf)
 - [Ferramenta para ideação de filtros de busca](https://github.com/prefeiturasp/SME-VagasNaCreche/blob/master/filtros-vagas.pdf)
 
-**Protótipos:**
+## Protótipos
 
-Home page: [https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=0%3A1](https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=0%3A1)
+- **Home page:** [https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=0%3A1](https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=0%3A1)
 
-**Resultado da busca:** [https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=11%3A158](https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=11%3A158)
+- **Resultado da busca:** [https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=11%3A158](https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=11%3A158)
 
-Vaga remanescente: [https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=82%3A241](https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=82%3A241)
+- **Vaga remanescente:** [https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=82%3A241](https://www.figma.com/file/AJSnPLfZcIm9m8Zj21EBsu/Vaga-na-Creche?node-id=82%3A241)
 
 # Links Úteis
 
